@@ -1,5 +1,5 @@
-€}q(Umodels]q(UChoiceqUQuestionqeUtestsite.urls]qUurlpatternsqaUtestsite.settings]q(UUSE_L10NqULANGUAGE_CODEq	UUSE_TZq
-UUSE_I18NqU	DATABASESqU	TIME_ZONEqU
-STATIC_URLqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
-SECRET_KEYqUINSTALLED_APPSqUBASE_DIRqeUurls]qUurlpatternsqaUviews]q(U	IndexViewqUResultsViewqUvoteqU
-DetailViewqeu.
+€}q(Utests]q(UQuestionViewTestsqUcreate_questionqUQuestionMethodTestsqeUviews]q(U	IndexViewqUResultsViewqUvoteq	U
+DetailViewq
+eUmodels]q(UChoiceqUQuestionqeUtestsite.urls]qUurlpatternsqaUtestsite.settings]q(UUSE_L10NqULANGUAGE_CODEqUUSE_TZqUUSE_I18NqU	DATABASESqU	TIME_ZONEqU
+STATIC_URLqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
+SECRET_KEYqUINSTALLED_APPSqUBASE_DIRq eUurls]q!Uurlpatternsq"au.

@@ -1,4 +1,4 @@
-€}q(Utestsite.urls]qUurlpatternsqaUpolls.admin]q(UQuestionAdminqUChoiceInlineqeUtestsite.settings]q(UTEMPLATE_DIRSqUUSE_L10Nq	ULANGUAGE_CODEq
-UUSE_TZqUUSE_I18NqU	DATABASESqU	TIME_ZONEqU
-STATIC_URLqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
-SECRET_KEYqUINSTALLED_APPSqUBASE_DIRqeUpolls.views]qUindexqaUpolls.models]q(UChoiceqUQuestionqeu.
+€}q(Upolls.tests]qUQuestionMethodTestsqaUtestsite.urls]qUurlpatternsqaUtestsite.settings]q(UTEMPLATE_DIRSqUUSE_L10NqULANGUAGE_CODEq	UUSE_TZq
+UUSE_I18NqU	DATABASESqU	TIME_ZONEqU
+STATIC_URLqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
+SECRET_KEYqUINSTALLED_APPSqUBASE_DIRqeUpolls.views]qUindexqaUpolls.models]q(UChoiceqUQuestionqeUpolls.admin]q(UQuestionAdminqUChoiceInlineqeu.
